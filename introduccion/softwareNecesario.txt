@@ -1,0 +1,7 @@
+Software necesario
+
+Para instalar git en nuestra computadora necesitamos seguir estos pasos.
+1) Vmos a la pagina de git con el siguiente link" https://git-scm.com/ "
+2) Descargamos el instalador correspondiente para nuestro sistema operativo.
+3) seguimos el proceso de instalacion como nos indica el instalador. 
+4) 
