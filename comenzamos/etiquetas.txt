@@ -1,0 +1,9 @@
+Etiquetas en git
+
+Las etiquetas en git son como los mensajes que dejamos al hacer un git commit -m "Mensaje", pero con las etiquetas podemos indicar cosas como la version del archivo y demas.
+
+1- git tag -a "qtiqueta"
+    Con este comando vamos a poder agregar la etiqueta.
+2- git checkout nombre_de_la_etiqueta
+    Este comando nos mostrata como nos movemos entre las ramas con las etiquetas
+3- 

@@ -1,0 +1,8 @@
+¿Como deshacer un commit?
+Para deshacer un commit seguimos estos pasos.
+
+1- git revert numero_del_commit 
+    Este comando nos permitira modificar el commit 
+2- git rm nombre_del_archivo
+    Este comando nos permite eliminar archivos desde la consola de git
+3- 

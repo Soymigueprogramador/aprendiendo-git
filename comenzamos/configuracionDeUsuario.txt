@@ -1,0 +1,13 @@
+Configuracion de usuario.
+
+Para configurar nuestro nombre de usuario y correo tenemos que hacer esto: 
+1- git config --list --global 
+    Este comando nos mostrara el nombre de usuario y correo del usuario de git en global
+2- git config --list --local
+    Este comando nos mostrara el nombre de usuario y correo del usuario de git en local
+3- git config
+    Este comando nos permite ver todas las configuraciones que podemos hacer con git config 
+4- git config -- global user.name "nombre_de_usuario"
+    Este comando nos permite poner el nombre del usuario que va a tener esta cuenta de git
+    5- git config -- global user.email "email_de_usuario"
+    Este comando nos permite poner el correo electronico del usuario que va a tener esta cuenta de git

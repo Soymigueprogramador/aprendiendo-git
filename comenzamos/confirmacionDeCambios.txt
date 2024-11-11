@@ -1,17 +1,7 @@
-Software necesario
+confirmacion de cambios
 
-Para instalar git en nuestra computadora necesitamos seguir estos pasos.
-1) Vmos a la pagina de git con el siguiente link" https://git-scm.com/ "
-2) Descargamos el instalador correspondiente para nuestro sistema operativo.
-3) seguimos el proceso de instalacion como nos indica el instalador. 
+Con estos comandos vamos a poder confirmar los cambios que estamos haciendo en nuestro repositorio local
 
-
-Para instalar GitHub desktop hacemos esto: 
-1) vamos a su pagina web " https://desktop.github.com/download/ " y descargamos el instalador
-2) Descargamos el instalador correspondiente para nuestro sistema operativo.
-3) seguimos el proceso de instalacion como nos indica el instalador. 
-
-Comandos basicos iniciales de Git:
 1- dir:
    Nos permite listar todos los archivos dentro de una carpeta.
 2- git init: 
