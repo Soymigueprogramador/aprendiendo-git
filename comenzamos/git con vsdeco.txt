@@ -1,0 +1,8 @@
+Git con visual studio code 
+
+Para poder trabajar con git desde visual studio code tenemos que seguir estos pasos:
+1- Abrimos visual studio code 
+2- Creamos algunos archivos
+3- Usamos los mismos comandos
+
+Desde el icono de las ramas en el menu izquierdo podemos accede a los commits, ver los cambios, ver las distintas versiones y mas.

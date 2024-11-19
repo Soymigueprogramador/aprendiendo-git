@@ -1,0 +1,3 @@
+Pausar y contunuar en git 
+
+Pausar en git: 

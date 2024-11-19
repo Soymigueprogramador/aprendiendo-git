@@ -1,0 +1,12 @@
+Unificando ramas en git
+
+¿ Que es unificar una rama en git ?
+Las ramas se unifican cuando se termina de trabajar en un proyecto. 
+Por ejemplo si tenemos una rama frontend/ login y terminamos de realizar dichos cambios y queremos mandar esos cambios a la rama frontend 
+tenemos que unificar la rama frontend/login con frontend
+
+¿ Como fucionamos las ramas ?
+Para fucionar una rama hacemos esto:
+1- Dbemos ir a la rama principal o a la rama en donde queremos que se fucionen las otras ramas.
+2- git marge nombreDeLaRamaBase (Nos fuciona con las otras ramas)
+3- git checkout nombreDeLaRamaBase --oneline (Nos muestra los cambios)

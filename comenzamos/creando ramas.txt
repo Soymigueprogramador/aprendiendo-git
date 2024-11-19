@@ -1,0 +1,22 @@
+Creando ramas en git 
+
+¿ Que son las ramas en git ?
+Las ramas son versiones diferentes de un proyecto.
+Al iniciar un nuevo proyecto la rama se llama "master" y es la rama que despues vamos a subir a produccion (Internet),
+pero cuando estamos trabajando en equipo vamos a crear nuevas ramas con las que vamos a trabajar antes de subir el proyecto a unternet (Desarrollo).
+Ejemplo:
+1- Proyecto creado en la rama master 
+2- Se copia ese proyecto y se lo pasa a la rama frontend
+3- Se copia la rama frontend y se crean nuevas ramas para las diferentes tareas.
+    rama: frontend/login
+    rama: frontend/registro
+    rama: frontend/formularioDeContacto
+
+¿ Como crear una rama ?
+Para crear una rama usamos este comando:
+1- git brach nombreDeLaRama (Este creauna una nueva rama pero no nos posiciona dentro de la misma)
+2- git checkout -b nombreDeLaRama (Crea una nueva rama y nos posiciona dentro de la misma)
+
+¿ Como cambiar entre ramas ?
+Para cambiar entre ramas hacemos esto: 
+1- git checkout nombreDeLaRama (Este comando nos cambiara de rama)
